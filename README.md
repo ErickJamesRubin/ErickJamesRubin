@@ -1,10 +1,10 @@
-# 👋 Yo, I'm [Your Name]
-**BSIT Student | Aspiring Data Engineer**
+# 👋 Hey, why you stalk? Do you have a crush to Erick James P. Rubin?
+**BSIT Student | Aspiring Cybersecurity**
 
 ---
 
 ## 📖 About Me
-- 🎓 BSIT student focused on **data, systems, and problem-solving**
+- 🎓 BSIT student at NBSC mainly focused on **studying fundamentals of programming, making basic systems, and enhancing problem-solving**
 - 💻 Currently building **backend-driven** and **database-centered** applications
 - 🔍 Interested in how **data flows through real-world systems**
 
@@ -38,37 +38,8 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 **NBSC Online Admission System**
-A full admission workflow system designed for school use, handling applicant tracking, exam scheduling, and result management.  
-**Tech:** PHP, MySQL, HTML, CSS, JavaScript
-
-### 🎮 **Retro Space Shooter Game**
-A classic-inspired 2D arcade shooter developed in Unity, implementing game state management, scoring logic, and sound effects.  
-**Tech:** Unity, C#
-
----
-
-## 🤝 Organization & Group Projects
-
-### 🧠 **Codex Ignite Quiz**
-An interactive IT learning platform focused on reinforcing programming fundamentals through quizzes and user performance tracking.  
-**Tech:** HTML, CSS, JavaScript
-
-### 🌱 **EcoProtean Proteus**
-A community-driven project focused on ecological responsibility and landslide prevention through mapping and data analysis.
-
-### 🎓 **Academic Group Projects (BSIT)**
-Built multiple systems and applications for school requirements including databases, web apps, and simulations.
-
----
-
 ## 🌱 Currently Learning
-- SQL optimization and database design
-- Backend logic and system workflows
-- Data fundamentals for analytics and engineering
-- Version control and collaborative development
+- Anything especially on 3rd year lessons major subs.
 
 ---
 
