@@ -1,5 +1,5 @@
 # 👋 Hey, why you stalk? Do you have a crush on Erick James P. Rubin?
-**BSIT Student | Aspiring Cybersecurity**
+**BSIT Student | Aspiring Cybersecurity, Web Developer, Cloud Computing**
 
 ---
 
