@@ -1,4 +1,4 @@
-# 👋 Hey, why you stalk? Do you have a crush to Erick James P. Rubin?
+# 👋 Hey, why you stalk? Do you have a crush on Erick James P. Rubin?
 **BSIT Student | Aspiring Cybersecurity**
 
 ---
