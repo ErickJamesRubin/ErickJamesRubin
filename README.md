@@ -33,9 +33,12 @@
 
 ## 📊 Profile Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8)
+
 
 
 ---
