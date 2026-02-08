@@ -1,19 +1,3 @@
-## Oh! Hello there! 👋
-
-<!--
-**ErickJamesRubin/ErickJamesRubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hey, ako ni si Erick James P. Rubin
 **BSIT Student at NBSC | Aspiring Cloud Engineering, Web Development, and Cybersecurity**
 
@@ -81,8 +65,9 @@ An online reservation platform developed for hotel operations, enabling room boo
 **Tech:** MySQL & Java
 
 ### 🍽️ **Recipe Web Recipe Guide**
-Built multiple systems and applications for school requirements including databases, web apps, and simulations.A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.
+A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.
 **Tech:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌱 Currently Learning
