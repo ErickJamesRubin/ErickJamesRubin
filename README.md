@@ -3,7 +3,7 @@
 
 ---
 
-## 📖 About Us
+## 📖 About Me
 - 🎓 BSIT student focused on **fundamentals of programming, knowing about cloud engineering, and web development vibe coder**
 - 💻 Currently building **anonymous student feedback system for NBSC** and **practicing fundamentals of each languages for implementing** applications
 - 🔍 Interested in how **adding secured encryption to websites**
