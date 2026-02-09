@@ -1,4 +1,4 @@
-# 👋 Hey, ako ni si Erick James P. Rubin
+# 👋 Stalk siya bay, ge lang kuha lag code
 **BSIT Student at NBSC | Aspiring Cloud Engineering, Web Development, and Cybersecurity**
 
 ---
