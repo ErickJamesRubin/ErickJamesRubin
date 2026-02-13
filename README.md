@@ -4,6 +4,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/profile.jpg" width="200" style="border-radius:50%;" />
+</p>
+
+---
+## https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/profile.jpg
+
 ## 📖 About Me
 - 🎓 BSIT student focused on **fundamentals of programming, knowing about cloud engineering, and web development vibe coder**
 - 💻 Currently building **anonymous student feedback system for NBSC** and **practicing fundamentals of each languages for implementing** applications
