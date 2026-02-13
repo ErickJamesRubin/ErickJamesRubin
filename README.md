@@ -9,7 +9,6 @@
 </p>
 
 ---
-## https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/profile.jpg
 
 ## 📖 About Me
 - 🎓 BSIT student focused on **fundamentals of programming, knowing about cloud engineering, and web development vibe coder**
