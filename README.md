@@ -65,6 +65,10 @@ A secure web-based system designed to collect student feedback anonymously, prom
 An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.
 **Tech:** MySQL & Java
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/profile.jpg" width="200" />
+</p>
+
 ### 🍽️ **Recipe Web Recipe Guide**
 A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.
 **Tech:** HTML, CSS, JavaScript
