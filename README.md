@@ -1,4 +1,4 @@
-# 👋 Stalk siya bay, ge lang kuha lag code
+# 👋 Adiyah etot...ako bi ako bi
 # Do it because you want it, not because you resist
 **BSIT Student at NBSC | Aspiring Cloud Engineering, Web Development, and Cybersecurity**
 
