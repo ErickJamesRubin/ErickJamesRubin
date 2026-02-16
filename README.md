@@ -1,5 +1,5 @@
-# 👋 Adiyah etot...ako bi ako bi
-# Do it because you want it, not because you resist
+# 👋 Update lang palagi
+# Ipit ang grado ani
 **BSIT Student at NBSC | Aspiring Cloud Engineering, Web Development, and Cybersecurity**
 
 ---
