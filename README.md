@@ -1,5 +1,4 @@
-# 👋 Update lang palagi
-# Ipit ang grado ani
+# 👋 ANG LINK KAY NAA RAS COMMENT SECTION!!!!!!!!!!!
 **BSIT Student at NBSC | Aspiring Cloud Engineering, Web Development, and Cybersecurity**
 
 ---
