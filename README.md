@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/away.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/away.gif" width="400" />
 </p>
 
 ---
