@@ -8,6 +8,8 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/away.gif" width="200" />
 </p>
 
+![gif](https://github.com/ErickJamesRubin/ErickJamesRubin/blob/main/away.gif?raw=true)
+
 ---
 
 ## 📖 About Me
