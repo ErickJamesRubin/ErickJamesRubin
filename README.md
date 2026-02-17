@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/gojoxsukuna.gif" width="500" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/gojoxsukuna.gif" width="500" />
 </p>
 
 ---
