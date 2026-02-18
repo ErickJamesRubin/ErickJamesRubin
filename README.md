@@ -37,14 +37,42 @@
 
 ---
 
-## 📊 Profile Overview
+## 📊 Profile Overview / Activities
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=react-dark&bg_color=141321&color=FF6BCB&line=FF6BCB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickJamesRubin&theme=radical&hide_border=true" />
+</p>
 
 ---
 
@@ -91,7 +119,7 @@ A web-based recipe guide created to organize and display various recipes, allowi
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickJamesRubin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
