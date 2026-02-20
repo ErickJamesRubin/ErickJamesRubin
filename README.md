@@ -1,5 +1,6 @@
-# 👋 ANG LINK KAY NAA RAS COMMENT SECTION!!!!!!!!!!!
-**BSIT Student at NBSC | Aspiring Cloud Engineering, Web Development, and Cybersecurity**
+<h1 align="center">👋 ANG LINK KAY NAA RAS COMMENT SECTION!!!!!!!!!!!</h1>
+
+<p align="center"><strong>BSIT Student at NBSC | Aspiring Cloud Engineering, Web Development, and Cybersecurity</strong></p>
 
 ---
 
@@ -9,7 +10,7 @@
 
 ---
 
-## 📖 About Me
+<h2 align="center">📖 About Me</h2>
 
 <p align="center">
   🎓 BSIT student focused on <strong>fundamentals of programming, knowing about cloud engineering, and web development vibe coder</strong><br><br>
@@ -19,28 +20,37 @@
 
 ---
 
-## 🛠️ Skill Stack
+<h2 align="center">🛠️ Skill Stack</h2>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h3 align="center">Languages</h3>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h3 align="center">Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<h3 align="center">Tools & Frameworks</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-## 📊 Profile Overview / Activities
+<h2 align="center">📊 Profile Overview / Activities</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
@@ -58,7 +68,7 @@
 
 ---
 
-## 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=react-dark&bg_color=141321&color=FF6BCB&line=FF6BCB&point=FFFFFF&area=true&hide_border=true" width="100%" />
@@ -66,7 +76,7 @@
 
 ---
 
-## 🏆 GitHub Stats
+<h2 align="center">🏆 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -79,25 +89,25 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 💼 **My Portfolio**
+<h3 align="center">💼 My Portfolio</h3>
 <p align="center">A personal portfolio system designed to showcase my projects, skills, and background, focusing on clean layout, responsiveness, and smooth navigation.<br>
 <strong>Tech:</strong> HTML, CSS, JavaScript</p>
 
-### 👟 **Zapatas Online Shoes Shop**
+<h3 align="center">👟 Zapatas Online Shoes Shop</h3>
 <p align="center">A web-based shoe store system developed to simulate an online retail experience, handling product listings, customer interaction, and basic order processing.<br>
 <strong>Tech:</strong> HTML, CSS, JavaScript</p>
 
 ---
 
-## 🤝 Organization & Group Projects
+<h2 align="center">🤝 Organization & Group Projects</h2>
 
-### 🕵️ **Anonymous Student Feedback System**
+<h3 align="center">🕵️ Anonymous Student Feedback System</h3>
 <p align="center">A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.<br>
 <strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
 
-### 🏨 **EcoProtean Proteus**
+<h3 align="center">🏨 EcoProtean Proteus</h3>
 <p align="center">An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.<br>
 <strong>Tech:</strong> MySQL & Java</p>
 
@@ -105,13 +115,13 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/profile.jpg" width="200" />
 </p>
 
-### 🍽️ **Recipe Web Recipe Guide**
+<h3 align="center">🍽️ Recipe Web Recipe Guide</h3>
 <p align="center">A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.<br>
 <strong>Tech:</strong> HTML, CSS, JavaScript</p>
 
 ---
 
-## 🌱 Currently Learning
+<h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
   📘 Fundamentals of Java and JavaScript<br>
@@ -122,12 +132,14 @@
 
 ---
 
-## 📫 Let's Connect
+<h2 align="center">📫 Let's Connect</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickJamesRubin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ErickJamesRubin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect!*
+<p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
