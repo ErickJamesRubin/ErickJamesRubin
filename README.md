@@ -10,9 +10,12 @@
 ---
 
 ## 📖 About Me
-- 🎓 BSIT student focused on **fundamentals of programming, knowing about cloud engineering, and web development vibe coder**
-- 💻 Currently building **anonymous student feedback system for NBSC** and **practicing fundamentals of each languages for implementing** applications
-- 🔍 Interested in how **adding secured encryption to websites**
+
+<p align="center">
+  🎓 BSIT student focused on <strong>fundamentals of programming, knowing about cloud engineering, and web development vibe coder</strong><br><br>
+  💻 Currently building <strong>anonymous student feedback system for NBSC</strong> and <strong>practicing fundamentals of each languages for implementing</strong> applications<br><br>
+  🔍 Interested in how <strong>adding secured encryption to websites</strong>
+</p>
 
 ---
 
@@ -79,40 +82,43 @@
 ## 🚀 Featured Projects
 
 ### 💼 **My Portfolio**
-A personal portfolio system designed to showcase my projects, skills, and background, focusing on clean layout, responsiveness, and smooth navigation. 
-**Tech:** HTML, CSS, JavaScript
+<p align="center">A personal portfolio system designed to showcase my projects, skills, and background, focusing on clean layout, responsiveness, and smooth navigation.<br>
+<strong>Tech:</strong> HTML, CSS, JavaScript</p>
 
 ### 👟 **Zapatas Online Shoes Shop**
-A web-based shoe store system developed to simulate an online retail experience, handling product listings, customer interaction, and basic order processing. 
-**Tech:** HTML, CSS, JavaScript
+<p align="center">A web-based shoe store system developed to simulate an online retail experience, handling product listings, customer interaction, and basic order processing.<br>
+<strong>Tech:</strong> HTML, CSS, JavaScript</p>
 
 ---
 
 ## 🤝 Organization & Group Projects
 
 ### 🕵️ **Anonymous Student Feedback System**
-A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.  
-**Tech:** PHP, MySQL, HTML, CSS, JavaScript
+<p align="center">A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.<br>
+<strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
 
 ### 🏨 **EcoProtean Proteus**
-An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.
-**Tech:** MySQL & Java
+<p align="center">An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.<br>
+<strong>Tech:</strong> MySQL & Java</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/profile.jpg" width="200" />
 </p>
 
 ### 🍽️ **Recipe Web Recipe Guide**
-A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.
-**Tech:** HTML, CSS, JavaScript
+<p align="center">A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.<br>
+<strong>Tech:</strong> HTML, CSS, JavaScript</p>
 
 ---
 
 ## 🌱 Currently Learning
-- Fundaments of Java and JavaScript
-- Python I suppose
-- Cybersecurity world
-- Anything about Cloud Engineering
+
+<p align="center">
+  📘 Fundamentals of Java and JavaScript<br>
+  🐍 Python I suppose<br>
+  🔐 Cybersecurity world<br>
+  ☁️ Anything about Cloud Engineering
+</p>
 
 ---
 
