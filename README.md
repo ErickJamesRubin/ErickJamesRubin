@@ -1,4 +1,4 @@
-<h1 align="center">👋 ANG LINK KAY NAA RAS COMMENT SECTION!!!!!!!!!!!</h1>
+<h1 align="center">👋 KAYA PA BA KAHIT ANSAKIT NA???</h1>
 
 <p align="center"><strong>BSIT Student at NBSC | Aspiring Cloud Engineering, Web Development, and Cybersecurity</strong></p>
 
