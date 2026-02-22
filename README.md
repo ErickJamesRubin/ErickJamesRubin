@@ -53,7 +53,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErickJamesRubin&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ErickJamesRubin&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=4&row=2&title=Followers,Commits,Repositories,Stars,PullRequest,Issues,Reviews,Experience" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -145,9 +145,9 @@
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ErickJamesRubin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#8fd6c0daddd0cac2cec6c3"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
+<p align="center">⭐️ <em>Feel free to explore my re
