@@ -50,6 +50,14 @@
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErickJamesRubin&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=2&column=4" />
+</p>
+
+---
+
 <h2 align="center">📊 Profile Overview / Activities</h2>
 
 <p align="center">
