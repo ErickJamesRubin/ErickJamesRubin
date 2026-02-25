@@ -51,10 +51,10 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErickJamesRubin&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=4&row=2&title=Followers,Commits,Repositories,Stars,PullRequest,Issues,Reviews,Experience" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/achievements.svg" alt="GitHub Achievements" width="100%" />
 </p>
 
 ---
