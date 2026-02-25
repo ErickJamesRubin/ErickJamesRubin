@@ -8,12 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/away.gif" width="600" />
-</p>
-
----
-
 <h2 align="center">📖 About Me</h2>
 
 <p align="center">
