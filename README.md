@@ -1,7 +1,10 @@
-<h1 align="center">👋 KAYA PA BA KAHIT ANSAKIT NA???</h1>
-<h1 align="center">👋 ADYAH ETOT!!!!!!!!</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/banner.svg" alt="Erick James Rubin Banner" width="100%"/>
+</p>
 
-<p align="center"><strong>🏫BSIT Student at NBSC | Aspiring Cloud Engineering☁️, Web Development🕸️, and Cybersecurity🔐</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/away.gif" width="600" />
+</p>
 
 ---
 
