@@ -52,7 +52,6 @@
 ---
 
 <h2 align="center">🏆 GitHub Achievements</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/achievements.svg" alt="GitHub Achievements" width="100%" />
 </p>
