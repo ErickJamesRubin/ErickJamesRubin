@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="165" viewBox="0 0 860 165">
+  <defs>
+    <style>
+      .bg { fill: #1a1a2e; }
+      .card { fill: #16213e; rx: 8; }
+      .border-gold { fill: none; stroke: #f0a500; stroke-width: 1.5; }
+      .border-silver { fill: none; stroke: #a0a0b0; stroke-width: 1.5; }
+      .border-bronze { fill: none; stroke: #cd7f32; stroke-width: 1.5; }
+      .border-gray { fill: none; stroke: #555570; stroke-width: 1.5; }
+      .label-gold { fill: #f0a500; font-family: 'Segoe UI', sans-serif; font-size: 9px; font-weight: bold; }
+      .label-silver { fill: #c0c0d0; font-family: 'Segoe UI', sans-serif; font-size: 9px; font-weight: bold; }
+      .label-gray { fill: #888899; font-family: 'Segoe UI', sans-serif; font-size: 9px; font-weight: bold; }
+      .title { font-family: 'Segoe UI', sans-serif; font-size: 10px; font-weight: bold; }
+      .pts { font-family: 'Segoe UI', sans-serif; font-size: 9px; }
+      .rank { font-family: 'Segoe UI', sans-serif; font-size: 22px; font-weight: bold; }
+      .trophy { font-size: 28px; }
+      .header { fill: #e0e0ff; font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: bold; }
+    </style>
+    <!-- Gold gradient -->
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe57a"/>
+      <stop offset="100%" stop-color="#b8860b"/>
+    </linearGradient>
+    <!-- Silver gradient -->
+    <linearGradient id="silverGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e0e0e0"/>
+      <stop offset="100%" stop-color="#808090"/>
+    </linearGradient>
+    <!-- Gray gradient -->
+    <linearGradient id="grayGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#888899"/>
+      <stop offset="100%" stop-color="#444455"/>
+    </linearGradient>
+    <!-- Progress bar bg -->
+    <linearGradient id="progGold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f0a500"/>
+      <stop offset="100%" stop-color="#ffe57a"/>
+    </linearGradient>
+    <linearGradient id="progSilver" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a0a0b0"/>
+      <stop offset="100%" stop-color="#d0d0e0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="165" rx="10" class="bg"/>
+
+  <!-- Header -->
+  <text x="20" y="25" class="header">🏆 GitHub Achievements</text>
+
+  <!-- ===== CARD 1: Followers (S rank - Gold) ===== -->
+  <g transform="translate(10, 35)">
+    <rect width="98" height="115" rx="8" fill="#16213e"/>
+    <rect width="98" height="115" rx="8" fill="none" stroke="#f0a500" stroke-width="1.5"/>
+    <text x="49" y="18" text-anchor="middle" class="label-gold">Followers</text>
+    <!-- Trophy icon -->
+    <text x="49" y="58" text-anchor="middle" font-size="30">🏆</text>
+    <!-- Rank badge -->
+    <text x="49" y="80" text-anchor="middle" font-size="20" font-weight="bold" fill="url(#goldGrad)" font-family="'Segoe UI', sans-serif">S</text>
+    <!-- Laurel leaves decoration -->
+    <text x="30" y="82" font-size="14">🌿</text>
+    <text x="62" y="82" font-size="14" transform="scale(-1,1) translate(-124,0)">🌿</text>
+    <!-- Title -->
+    <text x="49" y="95" text-anchor="middle" font-size="8" font-weight="bold" fill="#f0c050" font-family="'Segoe UI', sans-serif">Hyper Celebrity</text>
+    <!-- Progress bar -->
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="#2a2a4a"/>
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="url(#progGold)"/>
+    <!-- Points -->
+    <text x="49" y="112" text-anchor="middle" font-size="9" fill="#f0a500" font-family="'Segoe UI', sans-serif">210pt</text>
+  </g>
+
+  <!-- ===== CARD 2: Commits (A rank - Gold) ===== -->
+  <g transform="translate(115, 35)">
+    <rect width="98" height="115" rx="8" fill="#16213e"/>
+    <rect width="98" height="115" rx="8" fill="none" stroke="#f0a500" stroke-width="1.5"/>
+    <text x="49" y="18" text-anchor="middle" class="label-gold">Commits</text>
+    <text x="49" y="58" text-anchor="middle" font-size="30">🏆</text>
+    <!-- Triple A badges -->
+    <text x="30" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="url(#goldGrad)" font-family="'Segoe UI', sans-serif">A</text>
+    <text x="49" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="url(#goldGrad)" font-family="'Segoe UI', sans-serif">A</text>
+    <text x="68" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="url(#goldGrad)" font-family="'Segoe UI', sans-serif">A</text>
+    <text x="20" y="82" font-size="12">🌿</text>
+    <text x="68" y="82" font-size="12" transform="scale(-1,1) translate(-136,0)">🌿</text>
+    <text x="49" y="95" text-anchor="middle" font-size="8" font-weight="bold" fill="#f0c050" font-family="'Segoe UI', sans-serif">Ultra Committer</text>
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="#2a2a4a"/>
+    <rect x="8" y="100" width="70" height="4" rx="2" fill="url(#progGold)"/>
+    <text x="49" y="112" text-anchor="middle" font-size="9" fill="#f0a500" font-family="'Segoe UI', sans-serif">616pt</text>
+  </g>
+
+  <!-- ===== CARD 3: PullRequest (A rank - Gold) ===== -->
+  <g transform="translate(220, 35)">
+    <rect width="98" height="115" rx="8" fill="#16213e"/>
+    <rect width="98" height="115" rx="8" fill="none" stroke="#f0a500" stroke-width="1.5"/>
+    <text x="49" y="18" text-anchor="middle" class="label-gold">PullRequest</text>
+    <text x="49" y="58" text-anchor="middle" font-size="30">🏆</text>
+    <text x="49" y="80" text-anchor="middle" font-size="20" font-weight="bold" fill="url(#goldGrad)" font-family="'Segoe UI', sans-serif">A</text>
+    <text x="30" y="82" font-size="14">🌿</text>
+    <text x="62" y="82" font-size="14" transform="scale(-1,1) translate(-124,0)">🌿</text>
+    <text x="49" y="95" text-anchor="middle" font-size="8" font-weight="bold" fill="#f0c050" font-family="'Segoe UI', sans-serif">High Puller</text>
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="#2a2a4a"/>
+    <rect x="8" y="100" width="35" height="4" rx="2" fill="url(#progGold)"/>
+    <text x="49" y="112" text-anchor="middle" font-size="9" fill="#f0a500" font-family="'Segoe UI', sans-serif">35pt</text>
+  </g>
+
+  <!-- ===== CARD 4: Repositories (A rank - Gold) ===== -->
+  <g transform="translate(325, 35)">
+    <rect width="98" height="115" rx="8" fill="#16213e"/>
+    <rect width="98" height="115" rx="8" fill="none" stroke="#f0a500" stroke-width="1.5"/>
+    <text x="49" y="18" text-anchor="middle" class="label-gold">Repositories</text>
+    <text x="49" y="58" text-anchor="middle" font-size="30">🏆</text>
+    <text x="49" y="80" text-anchor="middle" font-size="20" font-weight="bold" fill="url(#goldGrad)" font-family="'Segoe UI', sans-serif">A</text>
+    <text x="30" y="82" font-size="14">🌿</text>
+    <text x="62" y="82" font-size="14" transform="scale(-1,1) translate(-124,0)">🌿</text>
+    <text x="49" y="95" text-anchor="middle" font-size="8" font-weight="bold" fill="#f0c050" font-family="'Segoe UI', sans-serif">High Repo Creator</text>
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="#2a2a4a"/>
+    <rect x="8" y="100" width="28" height="4" rx="2" fill="url(#progGold)"/>
+    <text x="49" y="112" text-anchor="middle" font-size="9" fill="#f0a500" font-family="'Segoe UI', sans-serif">28pt</text>
+  </g>
+
+  <!-- ===== CARD 5: Stars (C rank - Silver) ===== -->
+  <g transform="translate(430, 35)">
+    <rect width="98" height="115" rx="8" fill="#16213e"/>
+    <rect width="98" height="115" rx="8" fill="none" stroke="#a0a0b0" stroke-width="1.5"/>
+    <text x="49" y="18" text-anchor="middle" class="label-silver">Stars</text>
+    <text x="49" y="58" text-anchor="middle" font-size="30">🥈</text>
+    <text x="49" y="80" text-anchor="middle" font-size="20" font-weight="bold" fill="url(#silverGrad)" font-family="'Segoe UI', sans-serif">C</text>
+    <text x="30" y="82" font-size="14">🌿</text>
+    <text x="62" y="82" font-size="14" transform="scale(-1,1) translate(-124,0)">🌿</text>
+    <text x="49" y="95" text-anchor="middle" font-size="8" font-weight="bold" fill="#c0c0d0" font-family="'Segoe UI', sans-serif">First Star</text>
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="#2a2a4a"/>
+    <rect x="8" y="100" width="6" height="4" rx="2" fill="url(#progSilver)"/>
+    <text x="49" y="112" text-anchor="middle" font-size="9" fill="#a0a0b0" font-family="'Segoe UI', sans-serif">3pt</text>
+  </g>
+
+  <!-- ===== CARD 6: Experience (C rank - Silver) ===== -->
+  <g transform="translate(535, 35)">
+    <rect width="98" height="115" rx="8" fill="#16213e"/>
+    <rect width="98" height="115" rx="8" fill="none" stroke="#a0a0b0" stroke-width="1.5"/>
+    <text x="49" y="18" text-anchor="middle" class="label-silver">Experience</text>
+    <text x="49" y="58" text-anchor="middle" font-size="30">🥈</text>
+    <text x="49" y="80" text-anchor="middle" font-size="20" font-weight="bold" fill="url(#silverGrad)" font-family="'Segoe UI', sans-serif">C</text>
+    <text x="30" y="82" font-size="14">🌿</text>
+    <text x="62" y="82" font-size="14" transform="scale(-1,1) translate(-124,0)">🌿</text>
+    <text x="49" y="95" text-anchor="middle" font-size="8" font-weight="bold" fill="#c0c0d0" font-family="'Segoe UI', sans-serif">Newbie</text>
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="#2a2a4a"/>
+    <rect x="8" y="100" width="8" height="4" rx="2" fill="url(#progSilver)"/>
+    <text x="49" y="112" text-anchor="middle" font-size="9" fill="#a0a0b0" font-family="'Segoe UI', sans-serif">5pt</text>
+  </g>
+
+  <!-- ===== CARD 7: Issues (? - Gray) ===== -->
+  <g transform="translate(640, 35)">
+    <rect width="98" height="115" rx="8" fill="#16213e"/>
+    <rect width="98" height="115" rx="8" fill="none" stroke="#555570" stroke-width="1.5"/>
+    <text x="49" y="18" text-anchor="middle" class="label-gray">Issues</text>
+    <text x="49" y="58" text-anchor="middle" font-size="30">🥉</text>
+    <text x="49" y="80" text-anchor="middle" font-size="20" font-weight="bold" fill="url(#grayGrad)" font-family="'Segoe UI', sans-serif">?</text>
+    <text x="30" y="82" font-size="14">🌿</text>
+    <text x="62" y="82" font-size="14" transform="scale(-1,1) translate(-124,0)">🌿</text>
+    <text x="49" y="95" text-anchor="middle" font-size="8" font-weight="bold" fill="#888899" font-family="'Segoe UI', sans-serif">Unknown</text>
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="#2a2a4a"/>
+    <text x="49" y="112" text-anchor="middle" font-size="9" fill="#666677" font-family="'Segoe UI', sans-serif">0pt</text>
+  </g>
+
+  <!-- ===== CARD 8: Reviews (? - Gray) ===== -->
+  <g transform="translate(745, 35)">
+    <rect width="98" height="115" rx="8" fill="#16213e"/>
+    <rect width="98" height="115" rx="8" fill="none" stroke="#555570" stroke-width="1.5"/>
+    <text x="49" y="18" text-anchor="middle" class="label-gray">Reviews</text>
+    <text x="49" y="58" text-anchor="middle" font-size="30">🥉</text>
+    <text x="49" y="80" text-anchor="middle" font-size="20" font-weight="bold" fill="url(#grayGrad)" font-family="'Segoe UI', sans-serif">?</text>
+    <text x="30" y="82" font-size="14">🌿</text>
+    <text x="62" y="82" font-size="14" transform="scale(-1,1) translate(-124,0)">🌿</text>
+    <text x="49" y="95" text-anchor="middle" font-size="8" font-weight="bold" fill="#888899" font-family="'Segoe UI', sans-serif">Unknown</text>
+    <rect x="8" y="100" width="82" height="4" rx="2" fill="#2a2a4a"/>
+    <text x="49" y="112" text-anchor="middle" font-size="9" fill="#666677" font-family="'Segoe UI', sans-serif">0pt</text>
+  </g>
+
+</svg>
