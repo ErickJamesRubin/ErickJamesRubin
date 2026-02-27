@@ -8,7 +8,9 @@
 
 ---
 
-<h2 align="center">📖 About Me</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_about.svg" width="100%"/>
+</p>
 
 <p align="center">
   🎓 BSIT student focused on <strong>fundamentals of programming, knowing about cloud engineering, and web development vibe coder</strong><br><br>
@@ -18,7 +20,9 @@
 
 ---
 
-<h2 align="center">🛠️ Skill Stack</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_skills.svg" width="100%"/>
+</p>
 
 <h3 align="center">Languages</h3>
 
@@ -48,14 +52,19 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_trophies.svg" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/achievements.svg" alt="GitHub Achievements" width="100%" />
 </p>
 
 ---
 
-<h2 align="center">📊 Profile Overview / Activities</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
@@ -73,7 +82,9 @@
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_graph.svg" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=react-dark&bg_color=141321&color=FF6BCB&line=FF6BCB&point=FFFFFF&area=true&hide_border=true" width="100%" />
@@ -81,7 +92,9 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Stats</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -94,7 +107,9 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_projects.svg" width="100%"/>
+</p>
 
 <h3 align="center">💼 My Portfolio</h3>
 <p align="center">A personal portfolio system designed to showcase my projects, skills, and background, focusing on clean layout, responsiveness, and smooth navigation.<br>
@@ -106,7 +121,9 @@
 
 ---
 
-<h2 align="center">🤝 Organization & Group Projects</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_org.svg" width="100%"/>
+</p>
 
 <h3 align="center">🕵️ Anonymous Student Feedback System</h3>
 <p align="center">A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.<br>
@@ -126,7 +143,9 @@
 
 ---
 
-<h2 align="center">🌱 Currently Learning</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_learning.svg" width="100%"/>
+</p>
 
 <p align="center">
   📘 Fundamentals of Java and JavaScript<br>
@@ -137,14 +156,16 @@
 
 ---
 
-<h2 align="center">📫 Let's Connect</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_connect.svg" width="100%"/>
+</p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ErickJamesRubin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="/cdn-cgi/l/email-protection#8fd6c0daddd0cac2cec6c3"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">⭐️ <em>Feel free to explore my re
+<p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
