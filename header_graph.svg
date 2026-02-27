@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="70" viewBox="0 0 860 70">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0221;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#1a0533;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d0221;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="50%" style="stop-color:#ff6bcb"/>
+      <stop offset="100%" style="stop-color:#00d4ff"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow3d">
+      <feDropShadow dx="2" dy="3" stdDeviation="2" flood-color="#00d4ff" flood-opacity="0.8"/>
+      <feDropShadow dx="-1" dy="-1" stdDeviation="1" flood-color="#ff6bcb" flood-opacity="0.5"/>
+    </filter>
+    <filter id="textglow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="lineG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#ff6bcb;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="70" rx="10" fill="url(#bg)"/>
+  <!-- Bottom accent line -->
+  <rect x="0" y="67" width="860" height="2" fill="url(#lineG)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- 3D shadow layer (offset emoji for depth) -->
+  <text x="103" y="50" text-anchor="middle" font-size="34" opacity="0.2" fill="#00d4ff">
+    📈
+    <animateTransform attributeName="transform" type="scale"
+            values="1 1;1.15 1.15;1 1" keyTimes="0;0.5;1"
+            additive="sum" dur="2.0s" repeatCount="indefinite"/>
+  </text>
+  <!-- Main 3D emoji -->
+  <text x="100" y="47" text-anchor="middle" font-size="34" filter="url(#glow3d)">
+    📈
+    <animateTransform attributeName="transform" type="scale"
+            values="1 1;1.15 1.15;1 1" keyTimes="0;0.5;1"
+            additive="sum" dur="2.0s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Pulsing ring behind emoji -->
+  <circle cx="100" cy="35" r="24" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" values="24;32;24" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Section title -->
+  <text x="450" y="43" text-anchor="middle"
+    font-family="'Courier New', monospace" font-size="21" font-weight="bold"
+    letter-spacing="5" fill="url(#textGrad)" filter="url(#textglow)">
+    CONTRIBUTION GRAPH
+    <animate attributeName="opacity" values="1;0.75;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Left decorative dot -->
+  <circle cx="285" cy="35" r="3" fill="#00d4ff" opacity="0.7">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Right decorative dot -->
+  <circle cx="625" cy="35" r="3" fill="#ff6bcb" opacity="0.7">
+    <animate attributeName="r" values="3;5;3" dur="2s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>
