@@ -129,7 +129,7 @@
 <p align="center">A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.<br>
 <strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
 
-<h3 align="center">🏨 EcoProtean Proteus</h3>
+<h3 align="center">🏨 Pineapple Heritage Online Hotel Reservation System</h3>
 <p align="center">An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.<br>
 <strong>Tech:</strong> MySQL & Java</p>
 
