@@ -27,19 +27,27 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_languages.svg" width="100%"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_databases.svg" width="100%"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <h3 align="center">Tools & Frameworks</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_tools.svg" width="100%"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -94,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickJamesRubin&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -119,9 +127,9 @@
 
 <h3 align="center">🕵️ Anonymous Student Feedback System</h3>
 <p align="center">A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.<br>
-<strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
+<strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript, React, Firebase</p>
 
-<h3 align="center">🏨 EcoProtean Proteus</h3>
+<h3 align="center">🏨 Pineapple Heritage Online Hotel Reservation System</h3>
 <p align="center">An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.<br>
 <strong>Tech:</strong> MySQL & Java</p>
 
@@ -144,6 +152,7 @@
   🐍 Python I suppose<br>
   🔐 Cybersecurity world<br>
   ☁️ Anything about Cloud Engineering
+  UNTWA
 </p>
 
 ---
