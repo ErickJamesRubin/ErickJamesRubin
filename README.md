@@ -92,15 +92,16 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
 </p>
 
-<!-- Stats + languages side by side -->
+<!-- Stats + top langs using profile summary cards (same service as above, confirmed working) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical" />
 </p>
 
-<!-- Streak - fixed URL, shows daily mode to reflect actual 16-day streak -->
+<!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&mode=daily&date_format=M%20j%5B%2C%20Y%5D&card_width=500" />
+  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&mode=daily&card_width=500" />
 </p>
 
 ---
