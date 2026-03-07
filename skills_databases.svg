@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="105" viewBox="0 0 860 105">
+
+  <!-- MySQL -->
+  <g id="icon0">
+    <!-- glow halo -->
+    <circle cx="378" cy="40" r="36" fill="#4479A1" opacity="0">
+      <animate attributeName="opacity" values="0;0.2;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0;0,-9;0,0;0,-4;0,0" keyTimes="0;0.25;0.5;0.75;1"
+        dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <!-- icon paths -->
+    <g transform="translate(346,8)">
+      <animateTransform attributeName="transform" type="translate"
+        values="346,8;346,-1;346,8;346,3;346,8"
+        keyTimes="0;0.25;0.5;0.75;1"
+        dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+      <path fill="#4479A1" transform="scale(2.6667)" d="M16.405 5.501c-.115 0-.193.014-.274.033v.013h.014c.054.104.146.18.214.273.054.107.1.214.154.32l.014-.015c.094-.066.14-.172.14-.333-.04-.047-.046-.094-.08-.14-.04-.067-.126-.1-.18-.153zM5.77 18.695h-.927a50.854 50.854 0 00-.27-4.41h-.008l-1.41 4.41H2.45l-1.4-4.41h-.01a72.892 72.892 0 00-.195 4.41H0c.055-1.966.192-3.81.41-5.53h1.15l1.335 4.064h.008l1.347-4.064h1.095c.242 2.015.384 3.86.428 5.53zm4.017-4.08c-.378 2.045-.876 3.533-1.492 4.46-.482.716-1.01 1.073-1.583 1.073-.153 0-.34-.046-.566-.138v-.494c.11.017.24.026.386.026.268 0 .483-.075.647-.222.197-.18.295-.382.295-.605 0-.155-.077-.47-.23-.944L6.23 14.615h.91l.727 2.36c.164.536.233.91.205 1.123.4-1.064.678-2.227.835-3.483zm12.325 4.08h-2.63v-5.53h.885v4.85h1.745zm-3.32.135l-1.016-.5c.09-.076.177-.158.255-.25.433-.506.648-1.258.648-2.253 0-1.83-.718-2.746-2.155-2.746-.704 0-1.254.232-1.65.697-.43.508-.646 1.256-.646 2.245 0 .972.19 1.686.574 2.14.35.41.877.615 1.583.615.264 0 .506-.033.725-.098l1.325.772.357-.622zM15.5 17.588c-.225-.36-.337-.94-.337-1.736 0-1.393.424-2.09 1.27-2.09.443 0 .77.167.977.5.224.362.336.936.336 1.723 0 1.404-.424 2.108-1.27 2.108-.445 0-.77-.167-.978-.5z"/>
+        
+    </g>
+    <!-- label -->
+    <text x="378" y="90" text-anchor="middle"
+      font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700"
+      fill="#cccccc" letter-spacing="0.5">MySQL</text>
+  </g>
+  <!-- PostgreSQL -->
+  <g id="icon1">
+    <!-- glow halo -->
+    <circle cx="482" cy="40" r="36" fill="#336791" opacity="0">
+      <animate attributeName="opacity" values="0;0.2;0" dur="2.4s" begin="0.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0;0,-9;0,0;0,-4;0,0" keyTimes="0;0.25;0.5;0.75;1"
+        dur="2.4s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- icon paths -->
+    <g transform="translate(450,8)">
+      <animateTransform attributeName="transform" type="translate"
+        values="450,8;450,-1;450,8;450,3;450,8"
+        keyTimes="0;0.25;0.5;0.75;1"
+        dur="2.4s" begin="0.2s" repeatCount="indefinite"/>
+      <path fill="#336791" transform="scale(2.6667)" d="M23.5 12C23.5 5.649 18.351.5 12 .5S.5 5.649.5 12 5.649 23.5 12 23.5 23.5 18.351 23.5 12zM12 2a10 10 0 110 20A10 10 0 0112 2zm0 3a7 7 0 100 14A7 7 0 0012 5zm-1 2v6l5-3-5-3z"/>
+        
+    </g>
+    <!-- label -->
+    <text x="482" y="90" text-anchor="middle"
+      font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700"
+      fill="#cccccc" letter-spacing="0.5">PostgreSQL</text>
+  </g>
+</svg>
