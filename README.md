@@ -27,27 +27,19 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_languages.svg" width="100%"/>
 </p>
 
 <h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_databases.svg" width="100%"/>
 </p>
 
 <h3 align="center">Tools & Frameworks</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_tools.svg" width="100%"/>
 </p>
 
 ---
@@ -66,18 +58,21 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
 </p>
 
+<!-- Profile overview cards row 1 -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical" />
 </p>
 
+<!-- Profile overview cards row 2 -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8" />
 </p>
 
+<!-- Full-width profile details card (like the one in screenshot showing contributions, repos, joined date) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" width="100%"/>
 </p>
 
 ---
@@ -86,8 +81,9 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_graph.svg" width="100%"/>
 </p>
 
+<!-- Daily contribution graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=react-dark&bg_color=141321&color=FF6BCB&line=FF6BCB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=react-dark&bg_color=141321&color=FF6BCB&line=FF6BCB&point=FFFFFF&area=true&hide_border=true&days=30" width="100%" />
 </p>
 
 ---
@@ -96,13 +92,15 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
 </p>
 
+<!-- Stats + languages side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<!-- Streak - fixed URL, shows daily mode to reflect actual 16-day streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickJamesRubin&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&mode=daily&date_format=M%20j%5B%2C%20Y%5D&card_width=500" />
 </p>
 
 ---
@@ -127,9 +125,9 @@
 
 <h3 align="center">🕵️ Anonymous Student Feedback System</h3>
 <p align="center">A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.<br>
-<strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript, React, Firebase</p>
+<strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
 
-<h3 align="center">🏨 Pineapple Heritage Online Hotel Reservation System</h3>
+<h3 align="center">🏨 EcoProtean Proteus</h3>
 <p align="center">An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.<br>
 <strong>Tech:</strong> MySQL & Java</p>
 
@@ -152,7 +150,6 @@
   🐍 Python I suppose<br>
   🔐 Cybersecurity world<br>
   ☁️ Anything about Cloud Engineering
-  UNTWA
 </p>
 
 ---
