@@ -1,0 +1,247 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="280" viewBox="0 0 860 280">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0015"/>
+      <stop offset="50%" style="stop-color:#130025"/>
+      <stop offset="100%" style="stop-color:#050010"/>
+    </linearGradient>
+
+    <!-- Pink glow gradient for text -->
+    <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff2d78"/>
+      <stop offset="40%" style="stop-color:#ff6bcb"/>
+      <stop offset="70%" style="stop-color:#bf5fff"/>
+      <stop offset="100%" style="stop-color:#ff2d78"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0;1 0;-1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Gold gradient for name -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f0a500"/>
+      <stop offset="50%" style="stop-color:#ffe066"/>
+      <stop offset="100%" style="stop-color:#f0a500"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0;1 0;-1 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Strong glow -->
+    <filter id="strongglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Soft glow for particles -->
+    <filter id="particleglow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="clip">
+      <rect width="860" height="280" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="280" rx="16" fill="url(#bgGrad)"/>
+
+  <!-- Animated grid -->
+  <g clip-path="url(#clip)" opacity="0.06">
+    <line x1="0" y1="35" x2="860" y2="35" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="0" y1="70" x2="860" y2="70" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="0" y1="105" x2="860" y2="105" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="0" y1="140" x2="860" y2="140" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="0" y1="175" x2="860" y2="175" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="0" y1="210" x2="860" y2="210" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="0" y1="245" x2="860" y2="245" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="86" y1="0" x2="86" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="172" y1="0" x2="172" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="258" y1="0" x2="258" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="344" y1="0" x2="344" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="430" y1="0" x2="430" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="516" y1="0" x2="516" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="602" y1="0" x2="602" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="688" y1="0" x2="688" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+    <line x1="774" y1="0" x2="774" y2="280" stroke="#ff2d78" stroke-width="0.5"/>
+  </g>
+
+  <!-- Glowing orbs in background -->
+  <circle cx="120" cy="140" r="90" fill="#ff2d78" opacity="0.04" filter="url(#strongglow)">
+    <animate attributeName="r" values="90;110;90" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.04;0.08;0.04" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="740" cy="140" r="90" fill="#8b00ff" opacity="0.05" filter="url(#strongglow)">
+    <animate attributeName="r" values="90;115;90" dur="6s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.05;0.09;0.05" dur="6s" begin="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="430" cy="60" r="60" fill="#ff6bcb" opacity="0.03" filter="url(#strongglow)">
+    <animate attributeName="r" values="60;80;60" dur="4s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Floating particles -->
+  <g filter="url(#particleglow)">
+    <!-- particle 1 -->
+    <circle cx="80" cy="220" r="2" fill="#ff2d78" opacity="0.8">
+      <animate attributeName="cy" values="220;60;220" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <!-- particle 2 -->
+    <circle cx="160" cy="180" r="1.5" fill="#ff6bcb" opacity="0.6">
+      <animate attributeName="cy" values="180;40;180" dur="9s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="9s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <!-- particle 3 -->
+    <circle cx="280" cy="240" r="2" fill="#bf5fff" opacity="0.7">
+      <animate attributeName="cy" values="240;80;240" dur="8s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="8s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- particle 4 -->
+    <circle cx="430" cy="260" r="1.5" fill="#ff2d78" opacity="0.5">
+      <animate attributeName="cy" values="260;50;260" dur="11s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="11s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <!-- particle 5 -->
+    <circle cx="580" cy="200" r="2" fill="#ffe066" opacity="0.6">
+      <animate attributeName="cy" values="200;30;200" dur="8s" begin="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="8s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+    <!-- particle 6 -->
+    <circle cx="700" cy="250" r="1.5" fill="#ff6bcb" opacity="0.7">
+      <animate attributeName="cy" values="250;70;250" dur="10s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="10s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <!-- particle 7 -->
+    <circle cx="800" cy="190" r="2" fill="#bf5fff" opacity="0.5">
+      <animate attributeName="cy" values="190;20;190" dur="7s" begin="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="7s" begin="4s" repeatCount="indefinite"/>
+    </circle>
+    <!-- particle 8 -->
+    <circle cx="350" cy="230" r="1" fill="#ff2d78" opacity="0.9">
+      <animate attributeName="cy" values="230;90;230" dur="6s" begin="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="6s" begin="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Top border line animated -->
+  <rect x="0" y="0" width="860" height="2" rx="1" fill="url(#pinkGrad)" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bottom border line animated -->
+  <rect x="0" y="278" width="860" height="2" rx="1" fill="url(#pinkGrad)" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- === GREETING LINE: "👋 Hey there, welcome!" === -->
+  <text x="430" y="72" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="15" letter-spacing="4" fill="#ff6bcb"
+    filter="url(#glow)" opacity="0">
+    👋  HEY THERE,  WELCOME !
+    <animate attributeName="opacity" values="0;0;1;1;1;0;0" keyTimes="0;0.05;0.12;0.7;0.85;0.95;1" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,8;0,8;0,0;0,0;0,0;0,-6;0,-6"
+      keyTimes="0;0.05;0.12;0.7;0.85;0.95;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- === MAIN LINE: "I'm" small + "Erick James" big === -->
+  <!-- "I'm" -->
+  <text x="245" y="158" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="28" letter-spacing="3" fill="#ffffff"
+    filter="url(#glow)" opacity="0">
+    I ' M
+    <animate attributeName="opacity" values="0;0;0;1;1;1;0;0" keyTimes="0;0.1;0.18;0.26;0.65;0.8;0.92;1" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,15;0,15;0,15;0,0;0,0;0,0;0,-10;0,-10"
+      keyTimes="0;0.1;0.18;0.26;0.65;0.8;0.92;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- "ERICK JAMES" big glowing -->
+  <text x="530" y="158" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="44" font-weight="900" letter-spacing="4"
+    fill="url(#goldGrad)" filter="url(#strongglow)" opacity="0">
+    ERICK JAMES
+    <animate attributeName="opacity" values="0;0;0;0;1;1;1;0;0" keyTimes="0;0.1;0.2;0.28;0.38;0.65;0.8;0.92;1" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,20;0,20;0,20;0,20;0,0;0,0;0,0;0,-10;0,-10"
+      keyTimes="0;0.1;0.2;0.28;0.38;0.65;0.8;0.92;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Shimmer flash on name -->
+  <text x="530" y="158" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="44" font-weight="900" letter-spacing="4"
+    fill="white" opacity="0">
+    ERICK JAMES
+    <animate attributeName="opacity" values="0;0;0;0;0;0.3;0;0;0" keyTimes="0;0.35;0.37;0.39;0.41;0.42;0.44;0.65;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Underline for name -->
+  <rect x="310" y="168" width="0" height="2" rx="1" fill="url(#goldGrad)" opacity="0.9">
+    <animate attributeName="width" values="0;0;0;0;440;440;440;0;0" keyTimes="0;0.1;0.2;0.36;0.48;0.65;0.8;0.92;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="750;750;750;750;310;310;310;750;750" keyTimes="0;0.1;0.2;0.36;0.48;0.65;0.8;0.92;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- === SUBTITLE LINE === -->
+  <text x="430" y="210" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="13" letter-spacing="3" fill="#bf5fff"
+    filter="url(#glow)" opacity="0">
+    BSIT  STUDENT  ·  CLOUD  ENGINEER  ·  CYBERSECURITY
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.75;0.9;1" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,10;0,10;0,10;0,10;0,10;0,10;0,0;0,0;0,-8;0,-8"
+      keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.75;0.9;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- === TAGLINE === -->
+  <text x="430" y="245" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="11" letter-spacing="5" fill="#ff2d78"
+    opacity="0">
+    ✦  KAYA PA BA KAHIT ANSAKIT NA  ✦
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0.7;0.7;0.3;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.92;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="424" y="228" width="2" height="16" fill="#ff6bcb" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;0;1;0;0" keyTimes="0;0.5;0.55;0.58;0.62;0.64;0.68;0.72;0.76;0.82;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner decorations -->
+  <!-- Top left bracket -->
+  <path d="M20,15 L15,15 L15,40" fill="none" stroke="#ff2d78" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <!-- Top right bracket -->
+  <path d="M840,15 L845,15 L845,40" fill="none" stroke="#ff2d78" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </path>
+  <!-- Bottom left bracket -->
+  <path d="M20,265 L15,265 L15,240" fill="none" stroke="#ff2d78" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+  </path>
+  <!-- Bottom right bracket -->
+  <path d="M840,265 L845,265 L845,240" fill="none" stroke="#ff2d78" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" begin="2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Side dots -->
+  <circle cx="15" cy="140" r="3" fill="#ff2d78" opacity="0.6">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="845" cy="140" r="3" fill="#ff2d78" opacity="0.6">
+    <animate attributeName="r" values="3;5;3" dur="2s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+
+</svg>
