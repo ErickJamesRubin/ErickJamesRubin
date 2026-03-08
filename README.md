@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/welcome.svg" alt="Welcome" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/banner.svg" alt="Erick James Rubin Banner" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/away.gif" width="600" />
