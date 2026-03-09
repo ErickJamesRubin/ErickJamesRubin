@@ -1,3 +1,5 @@
+hi
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/welcome.svg" alt="Welcome" width="100%"/>
 </p>
