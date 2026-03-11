@@ -1,3 +1,13 @@
+<!-- Snake contribution animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+<!-- Random dev quote - refreshes every visit -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/welcome.svg" alt="Welcome" width="100%"/>
 </p>
@@ -182,15 +192,5 @@
 </p>
 
 ---
-
-<!-- Snake contribution animation - run GitHub Action to generate -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
-</p>
-
-<!-- Random dev quote - refreshes every visit -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="100%"/>
-</p>
 
 <p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
