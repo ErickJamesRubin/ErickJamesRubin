@@ -2,6 +2,21 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/welcome.svg" alt="Welcome" width="100%"/>
 </p>
 
+<!-- Live visitor counter + stats badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErickJamesRubin&style=for-the-badge&color=ff2d78&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ErickJamesRubin?style=for-the-badge&color=ff6bcb&labelColor=141321&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ErickJamesRubin?style=for-the-badge&color=f0a500&labelColor=141321&label=STARS" alt="Stars"/>
+</p>
+
+<!-- Animated typing roles -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/typing.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/banner.svg" alt="Erick James Rubin Banner" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/away.gif" width="600" />
@@ -167,5 +182,15 @@
 </p>
 
 ---
+
+<!-- Snake contribution animation - run GitHub Action to generate -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+<!-- Random dev quote - refreshes every visit -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="100%"/>
+</p>
 
 <p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
