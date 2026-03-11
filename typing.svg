@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="60" viewBox="0 0 860 60">
+  <defs>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2d78"/>
+      <stop offset="50%" stop-color="#ff6bcb"/>
+      <stop offset="100%" stop-color="#bf5fff"/>
+    </linearGradient>
+    <filter id="tglow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="860" height="60" fill="transparent"/>
+
+  <!-- Line 1: Cloud Engineer -->
+  <text x="430" y="38" text-anchor="middle"
+    font-family="'Courier New', monospace" font-size="20" font-weight="bold"
+    letter-spacing="2" fill="url(#tg)" filter="url(#tglow)">
+    <animate attributeName="opacity" values="0;0;1;1;1;0;0;0;0;0;0;0" keyTimes="0;0.05;0.1;0.3;0.38;0.42;0.5;0.55;0.7;0.8;0.9;1" dur="12s" repeatCount="indefinite"/>
+    &gt;_ Aspiring Cloud Engineer ☁️
+  </text>
+
+  <!-- Line 2: Web Dev -->
+  <text x="430" y="38" text-anchor="middle"
+    font-family="'Courier New', monospace" font-size="20" font-weight="bold"
+    letter-spacing="2" fill="url(#tg)" filter="url(#tglow)">
+    <animate attributeName="opacity" values="0;0;0;0;0;1;1;1;0;0;0;0" keyTimes="0;0.05;0.1;0.3;0.38;0.42;0.55;0.65;0.7;0.8;0.9;1" dur="12s" repeatCount="indefinite"/>
+    &gt;_ Web Development Vibe Coder 🕸️
+  </text>
+
+  <!-- Line 3: Cybersecurity -->
+  <text x="430" y="38" text-anchor="middle"
+    font-family="'Courier New', monospace" font-size="20" font-weight="bold"
+    letter-spacing="2" fill="url(#tg)" filter="url(#tglow)">
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;1;1;0" keyTimes="0;0.05;0.1;0.3;0.38;0.42;0.55;0.65;0.7;0.82;0.92;1" dur="12s" repeatCount="indefinite"/>
+    &gt;_ Cybersecurity Explorer 🔐
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="632" y="18" width="2" height="22" fill="#ff2d78">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
