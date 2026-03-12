@@ -42,7 +42,6 @@
   🎓 BSIT student focused on <strong>fundamentals of programming, knowing about cloud engineering, and web development vibe coder</strong><br><br>
   💻 Currently building <strong>anonymous student feedback system for NBSC</strong> and <strong>practicing fundamentals of each languages for implementing</strong> applications<br><br>
   🔍 Interested in how <strong>adding secured encryption to websites</strong>
-  KAYA MAN PERO SAKIT NAAAAAAAAAAAAAA!!!!!!!
 </p>
 
 ---
