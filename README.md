@@ -1,207 +1,198 @@
-<!-- ============================================================ -->
-<!--  PASTE THESE BLOCKS INTO YOUR EXISTING README.md            -->
-<!--  Each block is self-contained — drop them wherever you like -->
-<!-- ============================================================ -->
-
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  1. 🎵 SPOTIFY NOW PLAYING                                 -->
-<!--     Setup: https://github.com/kittinan/spotify-github-profile -->
-<!--     Replace YOUR_SPOTIFY_USERNAME with your Spotify username  -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
+<!-- Snake contribution animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_music.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+<!-- Random dev quote - refreshes every visit -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=141321&border_color=ff2d78" alt="Spotify Now Playing" width="350" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/welcome.svg" alt="Welcome" width="100%"/>
 </p>
 
----
-
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  2. ⏱️ WAKATIME CODING STATS                              -->
-<!--     Setup: https://wakatime.com → connect your editor       -->
-<!--     Then enable WakaTime in your GitHub Actions              -->
-<!--     Replace ErickJamesRubin with your WakaTime username      -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
+<!-- Live visitor counter + stats badges -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_wakatime.svg" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=ErickJamesRubin&style=for-the-badge&color=ff2d78&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ErickJamesRubin?style=for-the-badge&color=ff6bcb&labelColor=141321&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ErickJamesRubin?style=for-the-badge&color=f0a500&labelColor=141321&label=STARS" alt="Stars"/>
+</p>
+
+<!-- Animated typing roles -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/typing.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErickJamesRubin&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats" width="500"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/banner.svg" alt="Erick James Rubin Banner" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/master/away.gif" width="600" />
 </p>
 
 ---
 
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  3. 🐍 CURRENT FOCUS / GOALS (animated progress bars)     -->
-<!--     Pure markdown — no setup needed!                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_goals.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_about.svg" width="100%"/>
 </p>
 
 <p align="center">
-
-| Skill | Progress |
-|-------|----------|
-| JavaScript | `████████░░` 80% |
-| PHP & MySQL | `███████░░░` 70% |
-| Java | `██████░░░░` 60% |
-| Python | `████░░░░░░` 40% |
-| Cloud / AWS | `███░░░░░░░` 30% |
-| Cybersecurity | `██░░░░░░░░` 20% |
-
+  🎓 BSIT student focused on <strong>fundamentals of programming, knowing about cloud engineering, and web development vibe coder</strong><br><br>
+  💻 Currently building <strong>anonymous student feedback system for NBSC</strong> and <strong>practicing fundamentals of each languages for implementing</strong> applications<br><br>
+  🔍 Interested in how <strong>adding secured encryption to websites</strong>
 </p>
 
 ---
 
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  4. 🎲 FUN FACTS ABOUT ME                                  -->
-<!--     Personalise the facts below!                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_funfacts.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_skills.svg" width="100%"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td>⚡</td>
-    <td>I debug faster with lo-fi music playing in the background</td>
-  </tr>
-  <tr>
-    <td>🌙</td>
-    <td>Most of my best code is written past midnight</td>
-  </tr>
-  <tr>
-    <td>☕</td>
-    <td>Coffee + dark mode = maximum productivity</td>
-  </tr>
-  <tr>
-    <td>🔐</td>
-    <td>Encryption and security rabbit holes are my guilty pleasure</td>
-  </tr>
-  <tr>
-    <td>🎮</td>
-    <td>Gaming taught me patience — debugging taught me more</td>
-  </tr>
-  <tr>
-    <td>📱</td>
-    <td>I always have a notes app open for random project ideas at 2AM</td>
-  </tr>
-</table>
-
----
-
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  5. 📊 CODING TIME BREAKDOWN (WakaTime weekly bar chart)   -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErickJamesRubin&theme=radical&hide_border=true&layout=compact&custom_title=⏱️+This+Week+I+Coded+In...&langs_count=6" width="500"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_languages.svg" width="100%"/>
+</p>
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_databases.svg" width="100%"/>
+</p>
+
+<h3 align="center">Tools & Frameworks</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_tools.svg" width="100%"/>
 </p>
 
 ---
 
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  6. 🏆 CONTRIBUTION HEATMAP (3D version)                   -->
-<!--     No setup needed — auto-updates                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_3d.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_trophies.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=ErickJamesRubin&theme=radical" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/achievements.svg" alt="GitHub Achievements" width="100%" />
 </p>
 
 ---
 
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  7. 🌐 SOCIAL PREVIEW CARDS (prettier connect section)     -->
-<!--     Replace YOUR_LINKEDIN_URL and YOUR_EMAIL                -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ErickJamesRubin">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
+</p>
+
+<!-- Profile overview cards row 1 -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical" />
+</p>
+
+<!-- Profile overview cards row 2 -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8" />
+</p>
+
+<!-- Full-width profile details card (like the one in screenshot showing contributions, repos, joined date) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" width="100%"/>
 </p>
 
 ---
 
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  8. 💬 RANDOM DEV JOKE (refreshes each visit)              -->
-<!--     No setup needed!                                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Joke" width="500"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_graph.svg" width="100%"/>
+</p>
+
+<!-- Daily contribution graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=react-dark&bg_color=141321&color=FF6BCB&line=FF6BCB&point=FFFFFF&area=true&hide_border=true&days=30" width="100%" />
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
+</p>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  9. 🔥 FOOTER WAVE (aesthetic closing touch)               -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- Stats + top langs using profile summary cards (same service as above, confirmed working) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&mode=daily&card_width=500" />
+</p>
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_projects.svg" width="100%"/>
+</p>
+
+<h3 align="center">💼 My Portfolio</h3>
+<p align="center">A personal portfolio system designed to showcase my projects, skills, and background, focusing on clean layout, responsiveness, and smooth navigation.<br>
+<strong>Tech:</strong> HTML, CSS, JavaScript</p>
+
+<h3 align="center">👟 Zapatas Online Shoes Shop</h3>
+<p align="center">A web-based shoe store system developed to simulate an online retail experience, handling product listings, customer interaction, and basic order processing.<br>
+<strong>Tech:</strong> HTML, CSS, JavaScript</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_org.svg" width="100%"/>
+</p>
+
+<h3 align="center">🕵️ Anonymous Student Feedback System</h3>
+<p align="center">A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.<br>
+<strong>Tech:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
+
+<h3 align="center">🏨 EcoProtean Proteus</h3>
+<p align="center">An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.<br>
+<strong>Tech:</strong> MySQL & Java</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/profile.jpg" width="200" />
+</p>
+
+<h3 align="center">🍽️ Recipe Web Recipe Guide</h3>
+<p align="center">A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.<br>
+<strong>Tech:</strong> HTML, CSS, JavaScript</p>
+
+## HIIIIIIIIIIIIIIIIIII
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_learning.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <em>✨ Thanks for visiting — every star and follow keeps me coding! ✨</em>
+  📘 Fundamentals of Java and JavaScript<br>
+  🐍 Python I suppose<br>
+  🔐 Cybersecurity world<br>
+  ☁️ Anything about Cloud Engineering
 </p>
 
+---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SETUP NOTES                                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--
-  SPOTIFY NOW PLAYING:
-  → Go to https://github.com/kittinan/spotify-github-profile
-  → Follow the OAuth setup to get your personal Novatorem URL
-  → Replace the novatorem URL in block #1 with yours
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_connect.svg" width="100%"/>
+</p>
 
-  WAKATIME:
-  → Sign up at https://wakatime.com
-  → Install the WakaTime plugin for VS Code / your editor
-  → Add your WakaTime API key to GitHub Secrets as WAKATIME_API_KEY
-  → The stats card will auto-populate after a few days of coding
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ErickJamesRubin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-  3D CONTRIBUTION GRAPH:
-  → Go to https://github.com/yoshi389111/github-profile-3d-contrib
-  → Add the GitHub Action to auto-generate the 3D SVG weekly
+---
 
-  DISCORD BADGE:
-  → Get your Discord user ID: Settings → Advanced → Developer Mode → right-click your name → Copy ID
--->
+<p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
