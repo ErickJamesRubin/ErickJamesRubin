@@ -127,7 +127,7 @@
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-streak-banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/github-streak-banner.svg" width="100%" />
 </p>
 
 ---
