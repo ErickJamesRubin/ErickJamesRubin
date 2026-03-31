@@ -127,7 +127,7 @@
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&mode=daily&card_width=500" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-streak-banner.svg" width="100%" />
 </p>
 
 ---
