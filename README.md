@@ -118,13 +118,6 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
 </p>
 
-<!-- Stats + top langs using profile summary cards (same service as above, confirmed working) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical" />
-</p>
-
 <!-- Streak -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/github-streak-banner.svg" width="100%" />
