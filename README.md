@@ -1,4 +1,7 @@
-<!-- Snake contribution animation -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                    SNAKE CONTRIBUTION ANIMATION               -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
@@ -34,6 +37,10 @@
 
 ---
 
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                         ABOUT ME                              -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_about.svg" width="100%"/>
 </p>
@@ -44,7 +51,35 @@
   🔍 Interested in how <strong>adding secured encryption to websites</strong>
 </p>
 
+<!-- ✨ NEW: Fun Facts / Quick Info Cards -->
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">🌏</td>
+    <td><strong>Based in</strong> Philippines 🇵🇭</td>
+    <td align="center">📚</td>
+    <td><strong>Studying</strong> BSIT @ NBSC</td>
+  </tr>
+  <tr>
+    <td align="center">🎯</td>
+    <td><strong>Goal</strong> Cloud Engineer + Security</td>
+    <td align="center">⚡</td>
+    <td><strong>Fun fact</strong> I vibe-code at midnight 🌙</td>
+  </tr>
+  <tr>
+    <td align="center">🔭</td>
+    <td><strong>Open to</strong> Collaborations</td>
+    <td align="center">💬</td>
+    <td><strong>Ask me about</strong> Web Dev & PHP</td>
+  </tr>
+</table>
+
 ---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                          SKILLS                               -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_skills.svg" width="100%"/>
@@ -68,7 +103,27 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/skills_tools.svg" width="100%"/>
 </p>
 
+<!-- ✨ NEW: Skill Progress Bars via readme-stats -->
+<h3 align="center">⚙️ Proficiency Levels</h3>
+
+<p align="center">
+
+| Skill | Level | Progress |
+|-------|-------|----------|
+| HTML & CSS | Intermediate | ████████░░ 80% |
+| JavaScript | Intermediate | ███████░░░ 70% |
+| PHP | Intermediate | ███████░░░ 65% |
+| MySQL | Intermediate | ██████░░░░ 60% |
+| Java | Learning | █████░░░░░ 50% |
+| Python | Exploring | ████░░░░░░ 40% |
+
+</p>
+
 ---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                         TROPHIES                              -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_trophies.svg" width="100%"/>
@@ -78,7 +133,16 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/achievements.svg" alt="GitHub Achievements" width="100%" />
 </p>
 
+<!-- ✨ NEW: GitHub Trophies via ryo-ma -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErickJamesRubin&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
+</p>
+
 ---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                       GITHUB STATS                            -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
@@ -96,12 +160,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8" />
 </p>
 
-<!-- Full-width profile details card (like the one in screenshot showing contributions, repos, joined date) -->
+<!-- Full-width profile details card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" width="100%"/>
 </p>
 
+<!-- ✨ NEW: Classic GitHub Stats + Top Languages side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=FF6BCB&icon_color=f0a500&text_color=ffffff&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=FF6BCB&text_color=ffffff" height="180"/>
+</p>
+
 ---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                      ACTIVITY GRAPH                           -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_graph.svg" width="100%"/>
@@ -114,6 +188,10 @@
 
 ---
 
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                       STREAK STATS                            -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
 </p>
@@ -124,6 +202,26 @@
 </p>
 
 ---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                ✨ NEW: CODING ACTIVITY (WakaTime)             -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+<p align="center">
+
+### ⏱️ This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+> 🔧 Set up [WakaTime](https://wakatime.com) + [GitHub Action](https://github.com/marketplace/actions/waka-readme) to auto-populate your weekly coding stats here!
+<!--END_SECTION:waka-->
+
+</p>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                         PROJECTS                              -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_projects.svg" width="100%"/>
@@ -137,7 +235,18 @@
 <p align="center">A web-based shoe store system developed to simulate an online retail experience, handling product listings, customer interaction, and basic order processing.<br>
 <strong>Tech:</strong> HTML, CSS, JavaScript</p>
 
+<!-- ✨ NEW: Pinned Repo Cards (via github-readme-stats) -->
+<p align="center">
+  <a href="https://github.com/ErickJamesRubin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErickJamesRubin&repo=ErickJamesRubin&theme=radical&hide_border=true&bg_color=141321" />
+  </a>
+</p>
+
 ---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                    ORGANIZATION PROJECTS                      -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_org.svg" width="100%"/>
@@ -159,9 +268,39 @@
 <p align="center">A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.<br>
 <strong>Tech:</strong> HTML, CSS, JavaScript</p>
 
-## HIIIIIIIIIIIIIIIIIII
+---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                   ✨ NEW: ROADMAP / TIMELINE                  -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+### 🗺️ My Dev Journey
+
+```
+2023  ──▶  Started BSIT @ NBSC
+           └── Learned HTML, CSS, JavaScript basics
+
+2024  ──▶  Built first real projects
+           ├── 💼 Portfolio Website
+           ├── 👟 Zapatas Shoe Shop
+           └── 🕵️ Anonymous Feedback System (NBSC)
+
+2025  ──▶  Deepening skills
+           ├── 🐍 Python exploration
+           ├── ☕ Java fundamentals
+           └── 🔐 Cybersecurity interest unlocked
+
+2026+ ──▶  Goals ahead
+           ├── ☁️ Cloud Engineering (AWS / GCP)
+           ├── 🔒 Web Security & Encryption
+           └── 🚀 Ship production-ready apps
+```
 
 ---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                       CURRENTLY LEARNING                      -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_learning.svg" width="100%"/>
@@ -174,7 +313,35 @@
   ☁️ Anything about Cloud Engineering
 </p>
 
+<!-- ✨ NEW: Learning progress badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Learning-ff6bcb?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=141321"/>
+  <img src="https://img.shields.io/badge/Python-Exploring-f0a500?style=for-the-badge&logo=python&logoColor=white&labelColor=141321"/>
+  <img src="https://img.shields.io/badge/AWS-Next_Goal-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=141321"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Interested-00ff99?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=141321"/>
+</p>
+
 ---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--               ✨ NEW: QUOTE / PERSONAL MOTTO                  -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+<p align="center">
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ff6bcb&animation=twinkling&fontAlignY=70" width="100%"/>
+</p>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                          CONNECT                              -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_connect.svg" width="100%"/>
@@ -186,6 +353,17 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<!-- ✨ NEW: Additional social/platform badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</p>
+
 ---
 
 <p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
+
+<!-- ✨ NEW: Animated footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
+</p>
