@@ -40,7 +40,7 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=👤%20About%20Me&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_about.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=🛠️%20Skills%20%26%20Tech%20Stack&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_skills.svg" width="100%"/>
 </p>
 
 <h3 align="center">Languages</h3>
@@ -113,15 +113,15 @@
 ---
 
 <!-- ██████████████████████████████████████████████████████████████ -->
-<!--                         TROPHIES                              -->
+<!--              TROPHIES (your actual repo file)                  -->
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=🏆%20Trophies%20%26%20Achievements&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_trophies.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErickJamesRubin&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/achievements.svg" alt="GitHub Achievements" width="100%" />
 </p>
 
 ---
@@ -131,7 +131,7 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=📊%20GitHub%20Stats&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -148,11 +148,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=FF6BCB&icon_color=f0a500&text_color=ffffff&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=FF6BCB&text_color=ffffff" height="180"/>
-</p>
-
 ---
 
 <!-- ██████████████████████████████████████████████████████████████ -->
@@ -160,7 +155,7 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=📈%20Contribution%20Graph&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_graph.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -174,11 +169,11 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=🔥%20Streak%20Stats&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&background=141321&ring=FF6BCB&fire=f0a500&currStreakLabel=FF6BCB" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/github-streak-banner.svg" width="100%" />
 </p>
 
 ---
@@ -188,7 +183,7 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=🚀%20Personal%20Projects&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_projects.svg" width="100%"/>
 </p>
 
 <h3 align="center">💼 My Portfolio</h3>
@@ -214,7 +209,7 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=🏢%20Organization%20Projects&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_org.svg" width="100%"/>
 </p>
 
 <h3 align="center">🕵️ Anonymous Student Feedback System</h3>
@@ -232,6 +227,10 @@
 <strong>Tech:</strong>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/profile.jpg" width="200" />
 </p>
 
 <h3 align="center">🍽️ Recipe Web Recipe Guide</h3>
@@ -279,7 +278,7 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=📖%20Currently%20Learning&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_learning.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -315,7 +314,7 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=🤝%20Let's%20Connect&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_connect.svg" width="100%"/>
 </p>
 
 <p align="center">
