@@ -1,17 +1,11 @@
-<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                    SNAKE CONTRIBUTION ANIMATION               -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                        HEADER BANNER                          -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20James%20Rubin&fontSize=50&fontColor=ff6bcb&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Aspiring%20Cloud%20Engineer&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
 </p>
@@ -35,10 +29,7 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                         ABOUT ME                              -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_about.svg" width="100%"/>
 </p>
@@ -72,10 +63,8 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                          SKILLS                               -->
-<!-- ██████████████████████████████████████████████████████████████ -->
 
+<!--                          SKILLS                               -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_skills.svg" width="100%"/>
 </p>
@@ -112,10 +101,7 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
 <!--              TROPHIES (your actual repo file)                  -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_trophies.svg" width="100%"/>
 </p>
@@ -126,10 +112,8 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                       GITHUB STATS                            -->
-<!-- ██████████████████████████████████████████████████████████████ -->
 
+<!--                       GITHUB STATS                            -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
 </p>
@@ -150,10 +134,8 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                      ACTIVITY GRAPH                           -->
-<!-- ██████████████████████████████████████████████████████████████ -->
 
+<!--                      ACTIVITY GRAPH                           -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_graph.svg" width="100%"/>
 </p>
@@ -164,9 +146,8 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
+
 <!--                       STREAK STATS                            -->
-<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
@@ -178,9 +159,8 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
+
 <!--                         PROJECTS                              -->
-<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_projects.svg" width="100%"/>
@@ -204,9 +184,7 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                    ORGANIZATION PROJECTS                      -->
-<!-- ██████████████████████████████████████████████████████████████ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_org.svg" width="100%"/>
@@ -243,10 +221,7 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                   DEV JOURNEY ROADMAP                         -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=🗺️%20My%20Dev%20Journey&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
 </p>
@@ -273,10 +248,8 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                       CURRENTLY LEARNING                      -->
-<!-- ██████████████████████████████████████████████████████████████ -->
 
+<!--                       CURRENTLY LEARNING                      -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_learning.svg" width="100%"/>
 </p>
@@ -297,10 +270,7 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                       PERSONAL MOTTO                          -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
 <p align="center">
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
@@ -309,10 +279,7 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████ -->
 <!--                          CONNECT                              -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_connect.svg" width="100%"/>
 </p>
