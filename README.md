@@ -1,272 +1,234 @@
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                     HEADER BANNER                             -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
-<div align="center">
-
-```
-██████╗ ███████╗     ██████╗ ██╗   ██╗██╗███████╗████████╗ █████╗ ███╗   ██╗██████╗      ██████╗ ██████╗ ██████╗ ███████╗
-██╔══██╗██╔════╝    ██╔═══██╗██║   ██║██║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║██╔══██╗    ██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██████╔╝█████╗      ██║   ██║██║   ██║██║█████╗     ██║   ███████║██╔██╗ ██║██║  ██║    ██║     ██║   ██║██║  ██║█████╗
-██╔══██╗██╔══╝      ██║▄▄ ██║██║   ██║██║██╔══╝     ██║   ██╔══██║██║╚██╗██║██║  ██║    ██║     ██║   ██║██║  ██║██╔══╝
-██████╔╝███████╗    ╚██████╔╝╚██████╔╝██║███████╗   ██║   ██║  ██║██║ ╚████║██████╔╝    ╚██████╗╚██████╔╝██████╔╝███████╗
-╚═════╝ ╚══════╝     ╚══▀▀═╝  ╚═════╝ ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝      ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
-
-</div>
-
----
-
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                   SNAKE CONTRIBUTION                          -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
+<!--                    SNAKE CONTRIBUTION ANIMATION               -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                   PROFILE HEADER                              -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
+<!--                        HEADER BANNER                          -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=Erick%20James%20Rubin&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Be%20Quiet%20and%20CODE.&descAlignY=62&descColor=8b949e&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20James%20Rubin&fontSize=50&fontColor=ff6bcb&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Aspiring%20Cloud%20Engineer&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
 </p>
 
+<!-- Animated typing roles -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ErickJamesRubin&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ErickJamesRubin?style=flat-square&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/ErickJamesRubin?style=flat-square&color=f0a500&labelColor=0d1117&label=STARS" alt="Stars"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6BCB&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Erick+%F0%9F%91%8B;BSIT+Student+%40+NBSC;Web+Dev+Vibe+Coder+%F0%9F%92%BB;Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" width="100%"/>
 </p>
 
+<!-- Live visitor counter + stats badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+NBSC;Web+Dev+%7C+PHP+%7C+MySQL;Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Vibe+coding+at+midnight+%F0%9F%8C%99" alt="Typing SVG" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=ErickJamesRubin&style=for-the-badge&color=ff2d78&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ErickJamesRubin?style=for-the-badge&color=ff6bcb&labelColor=141321&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ErickJamesRubin?style=for-the-badge&color=f0a500&labelColor=141321&label=STARS" alt="Stars"/>
+</p>
+
+<!-- Random dev quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="100%"/>
 </p>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                      ABOUT ME                                 -->
-<!--  ═══════════════════════════════════════════════════════════  -->
+<!--                         ABOUT ME                              -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_about.svg" width="100%"/>
+</p>
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="60%">
+<p align="center">
+  🎓 BSIT student focused on <strong>fundamentals of programming, knowing about cloud engineering, and web development vibe coder</strong><br><br>
+  💻 Currently building <strong>anonymous student feedback system for NBSC</strong> and <strong>practicing fundamentals of each languages for implementing</strong> applications<br><br>
+  🔍 Interested in how <strong>adding secured encryption to websites</strong>
+</p>
 
-### 🧑‍💻 About
-
-```yaml
-name:     Erick James Rubin
-school:   NBSC — BSIT Student
-location: Philippines 🇵🇭
-focus:    Web Dev · Cloud · Security
-
-currently_building:
-  - Anonymous Student Feedback System
-  - Practicing core language fundamentals
-
-interested_in:
-  - Cloud Engineering (AWS / GCP)
-  - Web Security & Encryption
-  - Cybersecurity
-
-fun_fact: I vibe-code at midnight 🌙
-open_to:  Collaborations
-```
-
-</td>
-<td valign="top" width="40%">
-
-### 📊 Quick Stats
-
-| | |
-|---|---|
-| 🌏 **Based in** | Philippines |
-| 📚 **Studying** | BSIT @ NBSC |
-| 💬 **Ask me** | Web Dev & PHP |
-| 🎯 **Goal** | Cloud + Security |
-| 🔭 **Open to** | Collabs |
-| ⚡ **Vibe** | Midnight coder |
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center">🌏</td>
+    <td><strong>Based in</strong> Philippines 🇵🇭</td>
+    <td align="center">📚</td>
+    <td><strong>Studying</strong> BSIT @ NBSC</td>
+  </tr>
+  <tr>
+    <td align="center">🎯</td>
+    <td><strong>Goal</strong> Cloud Engineer + Security</td>
+    <td align="center">⚡</td>
+    <td><strong>Fun fact</strong> I vibe-code at midnight 🌙</td>
+  </tr>
+  <tr>
+    <td align="center">🔭</td>
+    <td><strong>Open to</strong> Collaborations</td>
+    <td align="center">💬</td>
+    <td><strong>Ask me about</strong> Web Dev & PHP</td>
+  </tr>
 </table>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                   TECH STACK                                  -->
-<!--  ═══════════════════════════════════════════════════════════  -->
 
-### 🛠️ Tech Stack
+<!--                          SKILLS                               -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_skills.svg" width="100%"/>
+</p>
 
-<h4>Languages</h4>
-<p>
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python&theme=dark" />
 </p>
 
-<h4>Databases</h4>
-<p>
+<h3 align="center">Databases</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
-<h4>Tools & Frameworks</h4>
-<p>
+<h3 align="center">Tools & Frameworks</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,figma,linux&theme=dark" />
 </p>
 
----
-
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--               PROFICIENCY LEVELS                              -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
-### ⚙️ Proficiency Levels
-
-```
-HTML & CSS   ████████░░  80%   Intermediate
-JavaScript   ███████░░░  70%   Intermediate
-PHP          ██████░░░░  65%   Intermediate
-MySQL        ██████░░░░  60%   Intermediate
-Java         █████░░░░░  50%   Learning
-Python       ████░░░░░░  40%   Exploring
-```
-
----
-
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                   GITHUB STATS                                -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
-### 📈 GitHub Stats
+<h3 align="center">⚙️ Proficiency Levels</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=github_dark&utcOffset=8" />
-</p>
+| Skill | Level | Progress |
+|-------|-------|----------|
+| HTML & CSS | Intermediate | ████████░░ 80% |
+| JavaScript | Intermediate | ███████░░░ 70% |
+| PHP | Intermediate | ███████░░░ 65% |
+| MySQL | Intermediate | ██████░░░░ 60% |
+| Java | Learning | █████░░░░░ 50% |
+| Python | Exploring | ████░░░░░░ 40% |
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=github_dark" width="100%"/>
 </p>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                  STREAK STATS                                 -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
-### 🔥 Streak Stats
+<!--              TROPHIES (your actual repo file)                  -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_trophies.svg" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickJamesRubin&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/achievements.svg" alt="GitHub Achievements" width="100%" />
 </p>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                  ACTIVITY GRAPH                               -->
-<!--  ═══════════════════════════════════════════════════════════  -->
 
-### 📅 Activity Graph
+<!--                       GITHUB STATS                            -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true&days=30" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickJamesRubin&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickJamesRubin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" width="100%"/>
 </p>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                     PROJECTS                                  -->
-<!--  ═══════════════════════════════════════════════════════════  -->
 
-### 💼 Projects
+<!--                      ACTIVITY GRAPH                           -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_graph.svg" width="100%"/>
+</p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**💼 Portfolio Website**
-> Personal portfolio showcasing projects, skills, and background. Clean layout, responsive design, smooth navigation.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-**👟 Zapatas Online Shoes Shop**
-> Web-based shoe store simulating an online retail experience — product listings, customer interaction, basic order processing.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🕵️ Anonymous Student Feedback System**
-> Secure web system to collect student feedback anonymously. Promotes honest responses while ensuring data privacy.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**🏨 EcoProtean Proteus**
-> Online hotel reservation platform — room booking, reservation tracking, and basic customer management.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🍽️ Recipe Web Guide**
-> Web-based recipe guide to browse, view ingredients, and follow step-by-step cooking instructions.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-**🔒 More coming soon...**
-> Currently building production-ready apps. Cloud & security projects in the pipeline.
-
-![AWS](https://img.shields.io/badge/AWS-Next_Goal-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=react-dark&bg_color=141321&color=FF6BCB&line=FF6BCB&point=FFFFFF&area=true&hide_border=true&days=30" width="100%" />
+</p>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                   DEV JOURNEY                                 -->
-<!--  ═══════════════════════════════════════════════════════════  -->
 
-### 🗺️ Dev Journey
+<!--                       STREAK STATS                            -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/github-streak-banner.svg" width="100%" />
+</p>
+
+---
+
+
+<!--                         PROJECTS                              -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_projects.svg" width="100%"/>
+</p>
+
+<h3 align="center">💼 My Portfolio</h3>
+<p align="center">A personal portfolio system designed to showcase my projects, skills, and background, focusing on clean layout, responsiveness, and smooth navigation.<br>
+<strong>Tech:</strong>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<h3 align="center">👟 Zapatas Online Shoes Shop</h3>
+<p align="center">A web-based shoe store system developed to simulate an online retail experience, handling product listings, customer interaction, and basic order processing.<br>
+<strong>Tech:</strong>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+<!--                    ORGANIZATION PROJECTS                      -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_org.svg" width="100%"/>
+</p>
+
+<h3 align="center">🕵️ Anonymous Student Feedback System</h3>
+<p align="center">A secure web-based system designed to collect student feedback anonymously, promoting honest responses while ensuring data privacy and organized feedback management.<br>
+<strong>Tech:</strong>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<h3 align="center">🏨 EcoProtean Proteus</h3>
+<p align="center">An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.<br>
+<strong>Tech:</strong>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/profile.jpg" width="200" />
+</p>
+
+<h3 align="center">🍽️ Recipe Web Recipe Guide</h3>
+<p align="center">A web-based recipe guide created to organize and display various recipes, allowing users to browse, view ingredients, and follow step-by-step cooking instructions.<br>
+<strong>Tech:</strong>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+<!--                   DEV JOURNEY ROADMAP                         -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=🗺️%20My%20Dev%20Journey&fontSize=24&fontColor=ff6bcb&animation=fadeIn" width="100%"/>
+</p>
 
 ```
 2023  ──▶  Started BSIT @ NBSC
-           └── HTML · CSS · JavaScript basics
+           └── Learned HTML, CSS, JavaScript basics
 
 2024  ──▶  Built first real projects
            ├── 💼 Portfolio Website
@@ -286,40 +248,45 @@ Python       ████░░░░░░  40%   Exploring
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                 CURRENTLY LEARNING                            -->
-<!--  ═══════════════════════════════════════════════════════════  -->
 
-### 📚 Currently Learning
+<!--                       CURRENTLY LEARNING                      -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_learning.svg" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Learning-58a6ff?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Python-Exploring-f0a500?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/AWS-Next_Goal-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Interested-3fb950?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117"/>
+  📘 Fundamentals of Java and JavaScript<br>
+  🐍 Python I suppose<br>
+  🔐 Cybersecurity world<br>
+  ☁️ Anything about Cloud Engineering
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Learning-ff6bcb?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=141321"/>
+  <img src="https://img.shields.io/badge/Python-Exploring-f0a500?style=for-the-badge&logo=python&logoColor=white&labelColor=141321"/>
+  <img src="https://img.shields.io/badge/AWS-Next_Goal-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=141321"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Interested-00ff99?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=141321"/>
 </p>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                    QUOTE                                      -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
+<!--                       PERSONAL MOTTO                          -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="100%"/>
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
 </p>
 
 ---
 
-<!--  ═══════════════════════════════════════════════════════════  -->
-<!--                    CONNECT                                    -->
-<!--  ═══════════════════════════════════════════════════════════  -->
-
-### 🔗 Connect
+<!--                          CONNECT                              -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_connect.svg" width="100%"/>
+</p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ErickJamesRubin"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ErickJamesRubin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -327,10 +294,9 @@ Python       ████░░░░░░  40%   Exploring
 
 ---
 
-<p align="center">
-  <em>⭐️ Feel free to explore my repositories and connect!</em>
-</p>
+<p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
 
+<!-- Animated footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer&text=Thanks+for+visiting!&fontSize=16&fontColor=8b949e&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ff6bcb&animation=twinkling&fontAlignY=70" width="100%"/>
 </p>
