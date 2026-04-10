@@ -10,6 +10,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20James%20Rubin&fontSize=50&fontColor=ff6bcb&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Aspiring%20Cloud%20Engineer&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
 </p>
 
+<!-- Animated typing roles -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6BCB&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Erick+%F0%9F%91%8B;BSIT+Student+%40+NBSC;Web+Dev+Vibe+Coder+%F0%9F%92%BB;Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" width="100%"/>
+</p>
+
 <!-- Live visitor counter + stats badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ErickJamesRubin&style=for-the-badge&color=ff2d78&label=PROFILE+VIEWS" alt="Profile Views"/>
