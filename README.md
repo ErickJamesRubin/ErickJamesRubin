@@ -296,7 +296,4 @@
 
 <p align="center">⭐️ <em>Feel free to explore my repositories and connect!</em></p>
 
-<!-- Animated footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ff6bcb&animation=twinkling&fontAlignY=70" width="100%"/>
-</p>
+
