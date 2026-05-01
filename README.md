@@ -16,12 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6BCB&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Erick+%F0%9F%91%8B;BSIT+Student+%40+NBSC;Web+Dev+Vibe+Coder+%F0%9F%92%BB;Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" width="100%"/>
 </p>
 
-<!-- Live visitor counter + stats badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ErickJamesRubin&style=for-the-badge&color=ff2d78&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ErickJamesRubin?style=for-the-badge&color=ff6bcb&labelColor=141321&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ErickJamesRubin?style=for-the-badge&color=f0a500&labelColor=141321&label=STARS" alt="Stars"/>
-</p>
+
 
 <!-- Random dev quote -->
 <p align="center">
