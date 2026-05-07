@@ -102,13 +102,13 @@
 
 ---
 
-<!--              TROPHIES (your actual repo file)                  -->
+<!--              TROPHIES                                          -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_trophies.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/achievements.svg" alt="GitHub Achievements" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ErickJamesRubin&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </p>
 
 ---
@@ -119,16 +119,19 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
 </p>
 
+<!-- Row 1: Main stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Erick's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Erick's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
 </p>
 
+<!-- Row 2: Top Languages + Productive Time -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8" alt="Productive Time" width="49%" />
 </p>
 
+<!-- Row 3: Full profile details -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" width="100%"/>
 </p>
@@ -143,19 +146,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickJamesRubin&theme=react-dark&bg_color=141321&color=FF6BCB&line=FF6BCB&point=FFFFFF&area=true&hide_border=true&days=30" width="100%" />
-</p>
-
----
-
-
-<!--                       STREAK STATS                            -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_githubstats.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/github-streak-banner.svg" width="100%" />
 </p>
 
 ---
