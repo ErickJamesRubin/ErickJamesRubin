@@ -5,10 +5,7 @@
 
 ---
 
-<!--                        HEADER BANNER                          -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20James%20Rubin&fontSize=50&fontColor=ff6bcb&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Aspiring%20Cloud%20Engineer&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
-</p>
+
 
 
 <!-- Animated typing roles -->
