@@ -119,11 +119,6 @@
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
 </p>
 
-<!-- Row 1: Main stats + Streak -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Erick's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
-</p>
 
 <!-- Row 2: Top Languages + Productive Time -->
 <p align="center">
