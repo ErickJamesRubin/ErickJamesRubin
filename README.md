@@ -132,21 +132,21 @@
 </p>
 
 <!-- ============================================================ -->
-<!--              STREAK & CONTRIBUTION DISPLAY (ADDED)           -->
+<!--              STREAK & CONTRIBUTION DISPLAY                   -->
 <!-- ============================================================ -->
 
-<!-- Streak Stats -->
+<!-- Streak Stats — demolab is more reliable than herokuapp -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickJamesRubin&theme=radical&hide_border=true&stroke=FF6BCB&ring=FF6BCB&fire=f0a500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6BCB&sideLabels=FF6BCB&dates=aaaaaa&background=141321" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=ErickJamesRubin&theme=radical&hide_border=true&stroke=FF6BCB&ring=FF6BCB&fire=f0a500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6BCB&sideLabels=FF6BCB&dates=aaaaaa&background=141321&timezone=Asia%2FManila" alt="GitHub Streak" width="70%"/>
 </p>
 
-<!-- Contribution + General Stats side by side -->
+<!-- GitHub Stats + Contribution Stats side by side -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=141321&title_color=FF6BCB&icon_color=f0a500&text_color=ffffff&ring_color=FF6BCB" alt="GitHub Stats" width="49%"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=ErickJamesRubin&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" width="49%"/>
 </p>
 
-<!-- Contribution Calendar Heatmap -->
+<!-- Contribution Heatmap -->
 <p align="center">
   <img src="https://ghchart.rshah.org/FF6BCB/ErickJamesRubin" alt="Erick's Contribution Chart" width="100%"/>
 </p>
