@@ -10,7 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20James%20Rubin&fontSize=50&fontColor=ff6bcb&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Aspiring%20Cloud%20Engineer&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
 </p>
 
-
 <!-- Animated typing roles -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6BCB&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Erick+%F0%9F%91%8B;BSIT+Student+%40+NBSC;Web+Dev+Vibe+Coder+%F0%9F%92%BB;Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" width="100%"/>
@@ -64,7 +63,6 @@
 
 ---
 
-
 <!--                          SKILLS                               -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_skills.svg" width="100%"/>
@@ -113,31 +111,31 @@
 
 ---
 
-
 <!--                       GITHUB STATS                            -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
 </p>
 
-
-<!-- Row 2: Top Languages + Productive Time -->
+<!-- Row 1: Top Languages + Productive Time -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJamesRubin&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickJamesRubin&theme=radical&utcOffset=8" alt="Productive Time" width="49%" />
 </p>
 
-<!-- Row 3: Full profile details -->
+<!-- Row 2: Full profile details -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" width="100%"/>
 </p>
 
 <!-- ============================================================ -->
-<!--              STREAK & CONTRIBUTION DISPLAY                   -->
+<!--               CONTRIBUTION SHOWCASE (2,066 AND COUNTING)     -->
 <!-- ============================================================ -->
 
-<!-- Streak Stats — demolab is more reliable than herokuapp -->
+<!-- Big contribution badge -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ErickJamesRubin&theme=radical&hide_border=true&stroke=FF6BCB&ring=FF6BCB&fire=f0a500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6BCB&sideLabels=FF6BCB&dates=aaaaaa&background=141321&timezone=Asia%2FManila" alt="GitHub Streak" width="70%"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-2%2C066%20and%20counting-FF6BCB?style=for-the-badge&logo=github&logoColor=white&labelColor=141321" alt="Total Contributions"/>
+  <img src="https://img.shields.io/badge/Longest%20Streak-21%20Days-f0a500?style=for-the-badge&logo=fire&logoColor=white&labelColor=141321" alt="Longest Streak"/>
+  <img src="https://img.shields.io/badge/Since-Aug%202024-00ff99?style=for-the-badge&logo=github&logoColor=white&labelColor=141321" alt="Since"/>
 </p>
 
 <!-- GitHub Stats + Contribution Stats side by side -->
@@ -146,17 +144,16 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=ErickJamesRubin&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" width="49%"/>
 </p>
 
-<!-- Contribution Heatmap -->
+<!-- Full width contribution heatmap -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF6BCB/ErickJamesRubin" alt="Erick's Contribution Chart" width="100%"/>
+  <img src="https://ghchart.rshah.org/FF6BCB/ErickJamesRubin" alt="Erick's Contribution Heatmap" width="100%"/>
 </p>
 
 <!-- ============================================================ -->
-<!--              END OF STREAK & CONTRIBUTION DISPLAY            -->
+<!--               END CONTRIBUTION SHOWCASE                      -->
 <!-- ============================================================ -->
 
 ---
-
 
 <!--                      ACTIVITY GRAPH                           -->
 <p align="center">
@@ -169,9 +166,7 @@
 
 ---
 
-
 <!--                         PROJECTS                              -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_projects.svg" width="100%"/>
 </p>
@@ -195,7 +190,6 @@
 ---
 
 <!--                    ORGANIZATION PROJECTS                      -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_org.svg" width="100%"/>
 </p>
@@ -257,7 +251,6 @@
 ```
 
 ---
-
 
 <!--                       CURRENTLY LEARNING                      -->
 <p align="center">
