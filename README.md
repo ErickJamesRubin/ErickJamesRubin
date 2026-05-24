@@ -131,6 +131,30 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickJamesRubin&theme=radical" width="100%"/>
 </p>
 
+<!-- ============================================================ -->
+<!--              STREAK & CONTRIBUTION DISPLAY (ADDED)           -->
+<!-- ============================================================ -->
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickJamesRubin&theme=radical&hide_border=true&stroke=FF6BCB&ring=FF6BCB&fire=f0a500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6BCB&sideLabels=FF6BCB&dates=aaaaaa&background=141321" alt="GitHub Streak" width="70%"/>
+</p>
+
+<!-- Contribution + General Stats side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickJamesRubin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=141321&title_color=FF6BCB&icon_color=f0a500&text_color=ffffff&ring_color=FF6BCB" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=ErickJamesRubin&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" width="49%"/>
+</p>
+
+<!-- Contribution Calendar Heatmap -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF6BCB/ErickJamesRubin" alt="Erick's Contribution Chart" width="100%"/>
+</p>
+
+<!-- ============================================================ -->
+<!--              END OF STREAK & CONTRIBUTION DISPLAY            -->
+<!-- ============================================================ -->
+
 ---
 
 
