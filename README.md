@@ -64,7 +64,6 @@
 
 ---
 
-
 <!--                          SKILLS                               -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_skills.svg" width="100%"/>
@@ -115,6 +114,11 @@
 
 
 <!--                       GITHUB STATS                            -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ErickJamesRubin&theme=radical&hide_border=true&background=141321&ring=FF6BCB&fire=FF6BCB&currStreakLabel=FF6BCB" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/main/header_stats.svg" width="100%"/>
 </p>
@@ -184,13 +188,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<h3 align="center">🏨 EcoProtean Proteus</h3>
-<p align="center">An online reservation platform developed for hotel operations, enabling room booking, reservation tracking, and basic customer management for a smooth booking experience.<br>
-<strong>Tech:</strong>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
