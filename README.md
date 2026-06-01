@@ -187,10 +187,6 @@
   <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recharts-22b5bf?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-FF6B35?style=flat-square&logo=arduino&logoColor=white"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/School-Northern%20Bukidnon%20State%20College-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Capstone-2024-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
 </p>
 ---
 
