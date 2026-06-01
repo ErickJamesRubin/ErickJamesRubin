@@ -1,4 +1,7 @@
-
+<!--                    SNAKE CONTRIBUTION ANIMATION               -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErickJamesRubin/ErickJamesRubin/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
 
 ---
 
