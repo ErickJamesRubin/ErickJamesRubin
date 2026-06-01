@@ -172,6 +172,26 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
+<h3 align="center">🚻 NBSC SmartCR — IoT-Based Smart Public Comfort Room Monitoring System</h3>
+<p align="center">
+  <em>Northern Bukidnon State College</em><br><br>
+  A real-time IoT monitoring system for NBSC public comfort rooms, featuring occupancy tracking,
+  odor/ammonia sensing, water usage analytics, automated deodorizer control, and role-based dashboards
+  for Admins, Managers, and public Users.<br><br>
+  <strong>Tech Stack:</strong><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recharts-22b5bf?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-FF6B35?style=flat-square&logo=arduino&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/School-Northern%20Bukidnon%20State%20College-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Capstone-2024-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
+</p>
 ---
 
 <!--                    ORGANIZATION PROJECTS                      -->
