@@ -1,6 +1,9 @@
-
-
-
+<!-- Live visitor counter + stats badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErickJamesRubin&style=for-the-badge&color=ff2d78&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ErickJamesRubin?style=for-the-badge&color=ff6bcb&labelColor=141321&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ErickJamesRubin?style=for-the-badge&color=f0a500&labelColor=141321&label=STARS" alt="Stars"/>
+</p>
 
 <!-- Random dev quote -->
 <p align="center">
